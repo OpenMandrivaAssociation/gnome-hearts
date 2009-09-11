@@ -1,7 +1,7 @@
 Summary:	Classic hearts card game for the GNOME desktop
 Name:     	gnome-hearts
 Version:	0.3
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	GPLv2+
 Group:		Graphical desktop/GNOME
 Source0: 	http://www.jejik.com/files/gnome-hearts/%name-%version.tar.gz
