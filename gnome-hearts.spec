@@ -5,7 +5,7 @@ Release:	%mkrel 2
 License:	GPLv2+
 Group:		Graphical desktop/GNOME
 Source0: 	http://www.jejik.com/files/gnome-hearts/%name-%version.tar.gz
-URL:		http://www.gnome-hearts.org/
+URL:		https://www.gnome-hearts.org/
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 BuildRequires:	gtk+2-devel libglade2-devel gnomeui2-devel libgnome2-devel
 BuildRequires:	python-devel
